@@ -3,3 +3,5 @@ C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\ap
 C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\api\Mapper.java
 C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\api\Reducer.java
 C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\examples\App.java
+C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\examples\WordCountMapper.java
+C:\Users\mishr\distributed-mapreduce\src\main\java\com\adityamishra\mapreduce\examples\WordCountReducer.java

@@ -1,0 +1,8 @@
+com\adityamishra\mapreduce\api\MapperTest.class
+com\adityamishra\mapreduce\examples\WordCountMapperTest.class
+com\adityamishra\mapreduce\api\ReducerTest$TestReducer.class
+com\adityamishra\mapreduce\api\KeyValueTest.class
+com\adityamishra\mapreduce\api\ContextTest.class
+com\adityamishra\mapreduce\examples\WordCountReducerTest.class
+com\adityamishra\mapreduce\api\MapperTest$TestMapper.class
+com\adityamishra\mapreduce\api\ReducerTest.class
