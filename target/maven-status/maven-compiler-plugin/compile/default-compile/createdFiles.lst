@@ -1,3 +1,4 @@
 com\adityamishra\mapreduce\api\Context.class
-com\adityamishra\mapreduce\api\KeyValue.class
+com\adityamishra\mapreduce\api\Mapper.class
 com\adityamishra\mapreduce\examples\App.class
+com\adityamishra\mapreduce\api\KeyValue.class
