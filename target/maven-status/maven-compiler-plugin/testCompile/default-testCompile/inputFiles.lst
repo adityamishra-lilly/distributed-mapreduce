@@ -2,5 +2,6 @@ C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\ap
 C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\api\KeyValueTest.java
 C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\api\MapperTest.java
 C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\api\ReducerTest.java
+C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\engine\LocalMapReduceTest.java
 C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\examples\WordCountMapperTest.java
 C:\Users\mishr\distributed-mapreduce\src\test\java\com\adityamishra\mapreduce\examples\WordCountReducerTest.java

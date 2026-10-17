@@ -1,5 +1,6 @@
 com\adityamishra\mapreduce\api\Mapper.class
 com\adityamishra\mapreduce\examples\WordCountMapper.class
+com\adityamishra\mapreduce\engine\LocalMapReduce.class
 com\adityamishra\mapreduce\api\Context.class
 com\adityamishra\mapreduce\examples\WordCountReducer.class
 com\adityamishra\mapreduce\api\Reducer.class
